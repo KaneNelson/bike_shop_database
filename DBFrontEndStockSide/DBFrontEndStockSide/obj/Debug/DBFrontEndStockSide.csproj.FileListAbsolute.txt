@@ -1,0 +1,10 @@
+C:\Users\kanen\source\repos\DBFrontEndStockSide\DBFrontEndStockSide\bin\Debug\DBFrontEndStockSide.exe.config
+C:\Users\kanen\source\repos\DBFrontEndStockSide\DBFrontEndStockSide\bin\Debug\DBFrontEndStockSide.exe
+C:\Users\kanen\source\repos\DBFrontEndStockSide\DBFrontEndStockSide\bin\Debug\DBFrontEndStockSide.pdb
+C:\Users\kanen\source\repos\DBFrontEndStockSide\DBFrontEndStockSide\obj\Debug\DBFrontEndStockSide.csprojAssemblyReference.cache
+C:\Users\kanen\source\repos\DBFrontEndStockSide\DBFrontEndStockSide\obj\Debug\DBFrontEndStockSide.Form1.resources
+C:\Users\kanen\source\repos\DBFrontEndStockSide\DBFrontEndStockSide\obj\Debug\DBFrontEndStockSide.Properties.Resources.resources
+C:\Users\kanen\source\repos\DBFrontEndStockSide\DBFrontEndStockSide\obj\Debug\DBFrontEndStockSide.csproj.GenerateResource.cache
+C:\Users\kanen\source\repos\DBFrontEndStockSide\DBFrontEndStockSide\obj\Debug\DBFrontEndStockSide.csproj.CoreCompileInputs.cache
+C:\Users\kanen\source\repos\DBFrontEndStockSide\DBFrontEndStockSide\obj\Debug\DBFrontEndStockSide.exe
+C:\Users\kanen\source\repos\DBFrontEndStockSide\DBFrontEndStockSide\obj\Debug\DBFrontEndStockSide.pdb

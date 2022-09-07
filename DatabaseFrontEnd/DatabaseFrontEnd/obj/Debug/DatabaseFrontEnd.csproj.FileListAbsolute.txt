@@ -1,0 +1,10 @@
+C:\Users\kanen\source\repos\DatabaseFrontEnd\DatabaseFrontEnd\bin\Debug\DatabaseFrontEnd.exe.config
+C:\Users\kanen\source\repos\DatabaseFrontEnd\DatabaseFrontEnd\bin\Debug\DatabaseFrontEnd.exe
+C:\Users\kanen\source\repos\DatabaseFrontEnd\DatabaseFrontEnd\bin\Debug\DatabaseFrontEnd.pdb
+C:\Users\kanen\source\repos\DatabaseFrontEnd\DatabaseFrontEnd\obj\Debug\DatabaseFrontEnd.csprojAssemblyReference.cache
+C:\Users\kanen\source\repos\DatabaseFrontEnd\DatabaseFrontEnd\obj\Debug\DatabaseFrontEnd.Form1.resources
+C:\Users\kanen\source\repos\DatabaseFrontEnd\DatabaseFrontEnd\obj\Debug\DatabaseFrontEnd.Properties.Resources.resources
+C:\Users\kanen\source\repos\DatabaseFrontEnd\DatabaseFrontEnd\obj\Debug\DatabaseFrontEnd.csproj.GenerateResource.cache
+C:\Users\kanen\source\repos\DatabaseFrontEnd\DatabaseFrontEnd\obj\Debug\DatabaseFrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\kanen\source\repos\DatabaseFrontEnd\DatabaseFrontEnd\obj\Debug\DatabaseFrontEnd.exe
+C:\Users\kanen\source\repos\DatabaseFrontEnd\DatabaseFrontEnd\obj\Debug\DatabaseFrontEnd.pdb
